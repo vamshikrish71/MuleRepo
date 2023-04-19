@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mule xmlns:ee="http://www.mulesoft.org/schema/mule/ee/core" xmlns="http://www.mulesoft.org/schema/mule/core"
+	xmlns:doc="http://www.mulesoft.org/schema/mule/documentation"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd
+http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/ee/core/current/mule-ee.xsd">
+	<flow name="fetchdata-api-implemetationFlow" doc:id="c031883b-b09d-4ed1-8b27-2d5d183640ec" >
+		<logger level="INFO" doc:name="Logger" doc:id="a7ff6fbf-1722-49ee-aa52-394824844270" message="fetchdata-api-implemetationFlow flow started"/>
+	</flow>
+</mule>
